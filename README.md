@@ -23,15 +23,15 @@ UIKit: 사용자 인터페이스 구축을 위한 기본 프레임워크
 <img width="735" alt="스크린샷 2024-12-18 오전 6 18 31" src="https://github.com/user-attachments/assets/6282e2eb-396a-417f-8ac4-a88894f0b54f" />
 
 ## 5.실행 결과
-![IMG_1890](https://github.com/user-attachments/assets/204d0bde-658a-466d-9214-3edd397b6611)
-![IMG_1889](https://github.com/user-attachments/assets/902996f5-22e7-4b7f-b89d-cbdb68fb7cdb)
-![IMG_1893](https://github.com/user-attachments/assets/9cfbe0e1-2fb2-43f4-b695-0f46188ade2c)
+![IMG_1886](https://github.com/user-attachments/assets/391d9edd-f0fd-49da-9f27-f24e664606c5)
 ![IMG_1887](https://github.com/user-attachments/assets/c0424457-4bf1-458c-86dd-a6c8e76dd623)
 ![IMG_1888](https://github.com/user-attachments/assets/85f93715-c01e-414e-82ca-feac9b462e69)
-![IMG_1892](https://github.com/user-attachments/assets/d1d79786-2e9d-49d7-b762-5d01bd9301ca)
-![IMG_1894](https://github.com/user-attachments/assets/5721e889-548c-4a71-a82f-289fe87784e5)
-![IMG_1886](https://github.com/user-attachments/assets/391d9edd-f0fd-49da-9f27-f24e664606c5)
+![IMG_1889](https://github.com/user-attachments/assets/902996f5-22e7-4b7f-b89d-cbdb68fb7cdb)
+![IMG_1890](https://github.com/user-attachments/assets/204d0bde-658a-466d-9214-3edd397b6611)
 ![IMG_1891](https://github.com/user-attachments/assets/86b2e49a-a32f-4f70-b89f-da2892839dfa)
+![IMG_1892](https://github.com/user-attachments/assets/d1d79786-2e9d-49d7-b762-5d01bd9301ca)
+![IMG_1893](https://github.com/user-attachments/assets/9cfbe0e1-2fb2-43f4-b695-0f46188ade2c)
+![IMG_1894](https://github.com/user-attachments/assets/5721e889-548c-4a71-a82f-289fe87784e5)
 
 ## 6.app 실행 영상
 https://drive.google.com/file/d/1UBHDWobpMaRRwMjjlb1JFKmfB4mJBtPQ/view?usp=drive_link
