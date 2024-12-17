@@ -33,5 +33,6 @@ UIKit: 사용자 인터페이스 구축을 위한 기본 프레임워크
 ![IMG_1893](https://github.com/user-attachments/assets/9cfbe0e1-2fb2-43f4-b695-0f46188ade2c)
 ![IMG_1894](https://github.com/user-attachments/assets/5721e889-548c-4a71-a82f-289fe87784e5)
 
-## 6.app 실행 영상
+## 6.app 실행 영상 및 발표자료
 https://drive.google.com/file/d/1UBHDWobpMaRRwMjjlb1JFKmfB4mJBtPQ/view?usp=drive_link
+[Chat Bot App.pptx](https://github.com/user-attachments/files/18172579/Chat.Bot.App.pptx)
