@@ -21,7 +21,7 @@ UIKit: 사용자 인터페이스 구축을 위한 기본 프레임워크
 ## 4. User 플로우 차트
 
 <img width="735" alt="스크린샷 2024-12-18 오전 6 18 31" src="https://github.com/user-attachments/assets/6282e2eb-396a-417f-8ac4-a88894f0b54f" />
----
+
 ## 5.실행 결과
 ![IMG_1886](https://github.com/user-attachments/assets/22cfed48-9910-452f-b0e2-aca3c8c55b5a)
 ![IMG_1887](https://github.com/user-attachments/assets/2e54638e-0b4e-4b88-b47c-8ff3ffe14bdc)
@@ -32,6 +32,6 @@ UIKit: 사용자 인터페이스 구축을 위한 기본 프레임워크
 ![IMG_1892](https://github.com/user-attachments/assets/b76322cd-be05-4d7c-ab28-97d623ffb733)
 ![IMG_1893](https://github.com/user-attachments/assets/669a3dab-9813-43d0-a6cd-288b18dd514d)
 ![IMG_1894](https://github.com/user-attachments/assets/20b7d41a-80e7-4251-a53a-bfd710ae3a7d)
----
+
 ## 6.app 실행 영상
 https://drive.google.com/file/d/1UBHDWobpMaRRwMjjlb1JFKmfB4mJBtPQ/view?usp=drive_link
